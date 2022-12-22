@@ -1,0 +1,19 @@
+*{
+    box-sizing: inherit;
+}
+html{
+    font-size: 62,5%;
+    line-height: 1.6rem;    
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    height: 100%;
+}
+.grip{
+    width: 1150px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+header{
+    position: fixed;
+    z-index: 2;
+}
